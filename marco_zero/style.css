@@ -1,10 +1,10 @@
 *{
-    padding: 0;
-    margin: 0;
+    padding: 5;
+    margin: 5;
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background-color: aquamarine;
+    background:linear-gradient( aquamarine, rgb(255, 255, 255));    
 }
 header{
     background: linear-gradient(#3df2ad, #53afb6, #138ef2);
